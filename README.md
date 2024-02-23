@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **vedant3436/vedant3436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I see that you're trying to view my profile
+
+![](https://komarev.com/ghpvc/?username=vedant3436&color=blueviolet&style=for-the-badge&label=Visitors)

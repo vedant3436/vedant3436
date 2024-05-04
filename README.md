@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I see that you're trying to view my profile
+Hey There!
 
 ![](https://komarev.com/ghpvc/?username=vedant3436&color=blueviolet&style=for-the-badge&label=Visitors)
 ##

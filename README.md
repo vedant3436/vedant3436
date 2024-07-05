@@ -20,10 +20,8 @@ Hey There!
 ![](https://github.com/vedant3436/vedant3436/blob/main/un.gif)
 ##
 ```
-<Skills learned from 6h YouTube Tutorial and 1 useless project go here>
-<ChatGPT generated Self confidence, Leadership, Team work Quality Emphasized Sentences go here>
-<Useless Certificates from no name organizations go here>
-<Full stack web developer title goes here after doing a 20h Bootcamp>
-<False enthusiasm for Information Technology goes here>
+Currently Learning Django
+Fluent in Python
+A little bit of Flask sometimes (would love to improve more)
 ```
 ##

@@ -20,8 +20,7 @@ Hey There!
 ![](https://github.com/vedant3436/vedant3436/blob/main/un.gif)
 ##
 ```
-Currently Learning Django
-Fluent in Python
+Currently making projects in Django and learning more about it
 A little bit of Flask sometimes (would love to improve more)
 ```
 ##

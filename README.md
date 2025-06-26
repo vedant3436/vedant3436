@@ -21,6 +21,5 @@ Hey There!
 ##
 ```
 Currently making projects in Django and learning more about it
-A little bit of Flask sometimes (would love to improve more)
 ```
 ##
